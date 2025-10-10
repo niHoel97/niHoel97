@@ -15,7 +15,7 @@ Jeg er spesielt interessert i **programvareutvikling, algoritmer, systemdesign o
 ## Prosjekter jeg er stolt av
 - [**Rocketboy**](https://github.com/niHoel97/Rocketboy) – Android-app som analyserer værdata for rakettoppskytning (nominert til MET-prisen 2025)  
 - [**RPECalculator**](https://github.com/niHoel97/RPECalculator) – iOS-app i SwiftUI for beregning av intensitet på trening
-- [**GymAppProject**](https://github.com/niHoel97/GymAppProject) – iOS-app i SwiftUI for loggføring av treningsøkter med database og strukturert systemdesign (work in progress)
+- [**GymApp**](https://github.com/niHoel97/GymApp) – iOS-app i SwiftUI for loggføring av treningsøkter med database og strukturert systemdesign (work in progress)
 
 ---
 
