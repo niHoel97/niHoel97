@@ -13,7 +13,7 @@ I’m particularly interested in **software development, algorithms, system desi
 ---
 
 ## **Projects I’m proud of**
-- [**Rocketboy**](https://github.com/niHoel97/Rocketboy) – Android app that analyzes weather data for rocket launches (nominated for the MET Award 2025)  
+- [**Rocketboy**](https://github.com/niHoel97/RockeyBoy) – Android app that analyzes weather data for rocket launches (nominated for the MET Award 2025)  
 - [**RPECalculator**](https://github.com/niHoel97/RPECalculator) – iOS app built with SwiftUI for calculating training intensity  
 - [**GymApp**](https://github.com/niHoel97/GymApp) – iOS app in SwiftUI for logging workouts with structured system design and database support (work in progress)
 
