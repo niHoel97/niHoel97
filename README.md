@@ -8,9 +8,9 @@ I’m particularly interested in **software development, system design, algorith
 
 ## **Technologies I work with**
 
-* **Programming languages:** Java, Python, Kotlin, C, Swift, TypeScript, VHDL
+* **Programming languages:** Java, Python, Kotlin, C, Swift, TypeScript
 * **Frameworks & technologies:** SwiftUI, React, Vite, Tailwind CSS
-* **Databases:** PostgreSQL
+* **Databases:** PostgreSQL, coredata
 * **Tools:** Git, GitHub, Figma, Miro
 
 ---
